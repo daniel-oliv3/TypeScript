@@ -35,6 +35,9 @@
 - Ex: typescript-03
 - Ex: typescript-04
 
+### 4 - TypeScript Basic Types - parte 1.
+- Ex: typescript-05
+
 
 
 
