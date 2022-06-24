@@ -1,7 +1,7 @@
 function executar(){
-    apresentar('Daniel');
+    apresentar('Daniel Oliveira', 18);
 }
 
-function apresentar(nome){
-    document.write(nome);
+function apresentar(nome, idade){
+    document.write(nome + " tem " + idade + " anos.");
 }
