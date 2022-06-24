@@ -22,6 +22,11 @@
 
 ### 2 - Instalação e fluxo de utilização do TypeScript.
 
+- TypeScript Lang - https://www.typescriptlang.org/
+- Visual Studio Code - https://code.visualstudio.com/
+- Node.js - https://nodejs.org/en/
+
+- npm install -g typescript
 
 
 
