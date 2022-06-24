@@ -28,6 +28,11 @@
 
 - npm install -g typescript
 
+- tsc index.ts
+
+### 3 - A importância do compilador de TypeScript.
+
+
 
 
 
