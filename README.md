@@ -1,6 +1,9 @@
 ## TypeScript.
 - Site - https://www.typescriptlang.org/
 
+### 1 - Bem-vindos ao TypeScript
+- :-)
+
 ## Anders Hejlsberg
 
 É um engenheiro de software dinamarquês que ganhou prestígio pelo desenvolvimento do Delphi e Turbo Pascal na Borland e a plataforma .NET após ter migrado para a Microsoft.
@@ -16,6 +19,8 @@
 
 - Wikipedia - https://pt.wikipedia.org/wiki/TypeScript
 
+
+### 2 - Instalação e fluxo de utilização do TypeScript.
 
 
 
