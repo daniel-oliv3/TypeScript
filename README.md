@@ -31,7 +31,7 @@
 - tsc index.ts
 
 ### 3 - A importância do compilador de TypeScript.
-
+- Ex: typescript-03
 
 
 
